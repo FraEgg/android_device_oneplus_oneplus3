@@ -180,6 +180,8 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_PACKAGES += \
     firefox \
 	signal \
+	osmand \
+	vlc \
 	fakegps
 	
 # ANT+
