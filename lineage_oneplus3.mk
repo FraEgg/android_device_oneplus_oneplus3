@@ -30,6 +30,8 @@ PRODUCT_NAME := lineage_oneplus3
 PRODUCT_DEVICE := oneplus3
 PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_BRAND := OnePlus
+PRODUCT_MODEL := OnePlus 3
+BOARD_VENDOR := OnePlus
 
 PRODUCT_GMS_CLIENTID_BASE := android-oneplus
 
