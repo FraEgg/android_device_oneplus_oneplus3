@@ -106,6 +106,11 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.frp.pst=/dev/block/bootdevice/by-name/config \
     persist.radio.multisim.config=dsds
 
+# AndroidBw
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.product.locale.language=de_DE \
+    ro.product.locale.region=DE
+
 # Haters gonna hate..
 PRODUCT_CHARACTERISTICS := nosdcard
 
