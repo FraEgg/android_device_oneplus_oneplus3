@@ -112,8 +112,8 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.product.locale.region=DE
 
 PRODUCT_PACKAGES += \
-	openvpn_client \
-	wireguard_client
+	openvpn_client
+#	wireguard_client
 	
 # Haters gonna hate..
 PRODUCT_CHARACTERISTICS := nosdcard
