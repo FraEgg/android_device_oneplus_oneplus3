@@ -400,8 +400,8 @@ PRODUCT_PACKAGES += \
     libstagefrighthw
 
 # Device Settings
-PRODUCT_PACKAGES += \
-    DeviceSettings
+#PRODUCT_PACKAGES += \
+#    DeviceSettings
 
 # Power
 PRODUCT_PACKAGES += \
